@@ -1,0 +1,1 @@
+MNCD-KE: a novel framework for simultaneous attribute- and interaction-based geographical regionalization
