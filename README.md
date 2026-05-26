@@ -36,3 +36,6 @@
 <center><img src="全球发电站分布/fig/global_power_plant_distribution.png"></center>
 <center><img src="全球发电站分布/fig/chn.png"></center>
 <center><img src="全球发电站分布/fig/usa.png"></center>
+
+## 全国洪涝事件分布
+<center><img src="全国洪涝事件分布/fig/空间分布.png"></center>
