@@ -31,3 +31,8 @@
 
 ## 中国航线
 <center><img src="中国航线/结果.png"></center>
+
+## 全球发电站分
+<center><img src="全球发电站分布/fig/global_power_plant_distribution.png"></center>
+<center><img src="全球发电站分布/fig/chn.png"></center>
+<center><img src="全球发电站分布/fig/usa.png"></center>
