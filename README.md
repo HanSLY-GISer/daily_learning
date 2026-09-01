@@ -39,3 +39,7 @@
 
 ## 全国洪涝事件分布
 <center><img src="全国洪涝事件分布/fig/空间分布.png"></center>
+
+## NS正刊的标题情感分析
+<center><img src="NS文章题目的情感分析/fig/堆叠.png"></center>
+<center><img src="NS文章题目的情感分析/fig/词云.png"></center>
