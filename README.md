@@ -43,3 +43,6 @@
 ## NS正刊的标题情感分析
 <center><img src="NS文章题目的情感分析/fig/堆叠.png"></center>
 <center><img src="NS文章题目的情感分析/fig/词云.png"></center>
+
+## 广州市微博签到可视化
+<center><img src="广州市微博签到可视化/fig/签到时空分布.png"></center>
